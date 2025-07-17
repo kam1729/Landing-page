@@ -1,0 +1,149 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.div12 {
+    background-color: #1F2937;
+    
+}
+.header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.headerlogo {
+    margin-left: 300px;
+}
+
+.headerlink {
+    margin-right: 300px;
+    display: flex;
+    gap: 20px;
+}
+.div1 {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    gap: 500px;
+}
+.div11 {
+    margin-left: 300px;
+}
+.headerlogo {
+    font-size: 36px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+.headerlink {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.websiteawesome {
+    font-size: 48px;
+    color: #F9FAF8;
+}
+.placeholder {
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 300px;
+    width: 500px;
+    height: 200px;
+    margin-top: 50px;
+}
+
+.button {
+    background-color: #3882F6;
+    border: 0;
+    font-size: xx-large;
+}
+
+.div2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.somerandom {
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 30px;
+    margin-left: 0px;
+}
+
+.box {
+    display: block;
+    height: 100px;
+    width: 100px;
+    border-color: #3882F6;
+    color: #3882F6;
+    border-width: 5px;
+}
+.div3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937;
+    background-color: #E5E7EB;
+}
+.textbox {
+    width: 800px;
+    height: 200px;
+    font-style: italic;
+}
+.author {
+    margin-left: 900px;
+    font-weight: 900;
+}
+.div4 {
+    display: flex;
+    background-color: #F9FAF8;
+    align-items: center;
+    height: 314px;
+    width: 1334px;
+}
+
+.div41 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    margin-left: 650px;
+    width: 900px;
+    height: 100px;
+    gap: 50px;
+}
+.button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border: white;
+    border-color: #F9FAF8;
+    font-size: 20px;
+}
+.callaction {
+    font-weight: 900;
+    font-size: large;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    height: 100px;
+}
